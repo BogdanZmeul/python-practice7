@@ -9,6 +9,7 @@ pandas = "==3.0.0"
 matplotlib = ">=3.10.7"
 pylint = "~=4.0.4"
 black = "*"
+pytest = ">=9.0.0"
 
 [dev-packages]
 
